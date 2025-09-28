@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Sep 27 17:46:32 2025
-
-@author: Ryzen7_3700X
 """
 
 '----------Password Checker------------'
@@ -76,3 +74,4 @@ else:
         print("Strong Password")
 
     print("Score", i, "/5")
+
